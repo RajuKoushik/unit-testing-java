@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.java.AlgoTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2018-10-22T04:53:01" hostname="manikanta" time="0.044">
+  <properties/>
+  <testcase name="BasicArraySorting" classname="test.java.AlgoTest" time="0.023"/>
+  <testcase name="TestForNegativeElementArray" classname="test.java.AlgoTest" time="0.002"/>
+  <testcase name="TestBubbleSortworksIfItHasRepeatingElements" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="TestForASingletonSet" classname="test.java.AlgoTest" time="0.007"/>
+  <testcase name="TestForAllKindsOfElements" classname="test.java.AlgoTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
