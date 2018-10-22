@@ -5,4 +5,6 @@ jdk:
   - oraclejdk8
 
 script:
-  - ./gradlew build --scan -s
+  - gradle run
+  - gradle build
+  - gradle test
